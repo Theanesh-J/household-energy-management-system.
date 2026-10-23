@@ -24,8 +24,8 @@ A command-line program that tracks weekly energy generation and consumption for 
 ## Run it
 
 ```bash
-pip install -r requirements.txt
-python energy_system.py
+pip3 install -r requirements.txt
+python3 energy_system.py
 ```
 
 Sample company member IDs: `1` to `8`. Sample household IDs: `11` to `14`.
