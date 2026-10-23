@@ -8,14 +8,14 @@ house_data={
         "source_type": "solar",
         "energy_generated": 250,
         "energy_consumed": 180,
-        "energy_saved": 0
+        "energy_saved": 70
     },
     2: {
         "house_id":12,
         "source_type": "wind",
         "energy_generated": 150,
         "energy_consumed": 150,
-        "energy_saved": 5
+        "energy_saved": 0
     },
     3: {
         "house_id":13,
@@ -29,7 +29,7 @@ house_data={
         "source_type": "solar",
         "energy_generated": 500,
         "energy_consumed": 420,
-        "energy_saved": 31
+        "energy_saved": 80
     }
 }
 #--------------------------------------------------------------------------------------------
